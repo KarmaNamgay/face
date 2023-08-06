@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(14, 205, 205);
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 40px;
+    background-color: orange;
+}
+#para_1{
+    background-color: orangered;
+    padding: 20px 0px;
+
+}
+
+.name_of_objects{
+    color: rgb(255, 125, 3);
+    font-size: 25px;
+    text-shadow: 2px 2px 2px yellow;
+}
+#camera,#result{
+    border: 2px solid wheat;
+    width: 350px;
+    height: 300px;
+}
+#capture,#check{
+    font-size: 20px;
+}
+#object_name,#object_accuracy{
+    font-size: 25px;
+}
